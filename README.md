@@ -1,11 +1,9 @@
 ShootingTaco
 ============
 
-  　這是一款在Android上面執行的遊戲，遊戲主要由彈射(拉扯後放開)主角來進行移動，主角需要經由閃避或摧毀障礙物，最後抵達目的地。
+  　這是一款在Android上面執行的遊戲，遊戲主要由彈射(拉扯後放開)主角來進行移動，主角需要經由閃避或摧毀障礙物，最後抵達目的地。本專案使用LibGDX的框架來實作，以下是遊戲Demo影片與遊戲截圖
 　　
-　　本專案使用LibGDX的框架來實作，以下是遊戲Demo影片與遊戲截圖
-　　
-　　https://www.youtube.com/watch?v=K6RAErKRb7U
+https://www.youtube.com/watch?v=K6RAErKRb7U
 
 HOME
 
